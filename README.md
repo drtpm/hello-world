@@ -1,4 +1,4 @@
 # hello-world
 Beginning Tutorials
 
-Hi, just learning to use github. Practice makes perfectly. 
+Hi, just learning to use github. Practice makes perfect. 
